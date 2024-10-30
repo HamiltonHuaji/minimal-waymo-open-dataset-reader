@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-protobuf = {extras = ["upb"], version = ">=4.21.0"}
+protobuf = ">=4.21.0"
 
 
 [build-system]
